@@ -1,4 +1,4 @@
-# MovieApp Web Sayfası
+# News Site Web Sayfası
 
 ## Bu proje; Sadık Turan'ın  [Komple Uygulamalı WEB Developer Kursu](https://www.udemy.com/course/komple-web-developer-kursu/) CSS kısmının 5. bölümünde yer alan *grid* dersleri ile oluşturulmuştur.
 
